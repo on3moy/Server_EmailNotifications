@@ -1,0 +1,1 @@
+C:\PythonScripts\Amazon_RecentDataValidation\venv\Scripts\activate.bat && python C:\PythonScripts\Amazon_RecentDataValidation\AmazonRecentDataValidation.py
